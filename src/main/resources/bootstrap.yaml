@@ -1,0 +1,6 @@
+spring:
+  cloud:
+    azure:
+      appconfiguration:
+        stores:
+          - connection-string: Endpoint=https://dio-order-app-config.azconfig.io;Id=IUXv-le-s0:GPSanfaBuxvxLhlLWPYJ;Secret=L72fNFKYLzC7KC9FDZHs9Ux7XWEgY9IfrOchDnkSNj4=
